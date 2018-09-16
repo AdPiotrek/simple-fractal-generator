@@ -1,0 +1,26 @@
+.canvas-wrapper {
+  margin-left: 20px;
+  width: 1000px;
+  height: 700px;
+  background-color: #000;
+}
+
+.menu {
+  position: fixed;
+  top: 20px;
+  left: 1100px;
+  border: 1px solid black;
+  width: 300px;
+}
+
+.form-group {
+  margin: 20px;
+}
+
+.slider {
+  margin-top: 20px;
+}
+
+.checkbox {
+  margin-left: 20px;
+}
